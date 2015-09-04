@@ -1,3 +1,4 @@
+;; New modifications
 (setq inhibit-startup-message t)
 
 (show-paren-mode 1)
